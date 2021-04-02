@@ -8,5 +8,6 @@
 </head>
 <body>
  <h3><%=request.getAttribute("Message")%></h3>
+ <h3></h3>
 </body>
 </html>
